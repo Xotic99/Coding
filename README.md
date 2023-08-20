@@ -2,8 +2,6 @@
 
 # C++
 
-# Java
-
 # Python
 
 # Rust
