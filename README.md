@@ -1,7 +1,5 @@
 # Coding Languages I use/am learning :)
 
-# C++
-
 # Python
 
 # Rust
